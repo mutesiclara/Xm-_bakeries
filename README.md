@@ -1,9 +1,6 @@
-# 📦 Inventory & Order Management API
+# Xm-_bakeries — Inventory & Order Management API
 
-A RESTful backend API built with **Node.js**, **Express**, **MySQL
-(mysql2)**, and **JWT authentication**. The system manages **Users**,
-**Products**, **Orders**, and **Inventory** with role-based access
-control.
+A RESTful backend API built with **Node.js**, **Express**, **MySQL (mysql2)**, and **JWT authentication**. The system manages **Users**, **Products**, **Orders**, and **Inventory** with role-based access control.
 
 ---
 
@@ -138,3 +135,4 @@ Example:
 ## 👨‍💻 Author
 
 Backend project built with Node.js, Express & MySQL.
+
